@@ -1,3 +1,4 @@
+
 WHILE LOOP
 
 Even numbers from 1 to 100 Logic A
@@ -7,3 +8,13 @@ while(i<=100)
 if(i%2==0)
 print(i)
 i++;
+
+FOR LOOP
+
+Even numbers from 1 to 100 Logic B
+
+for(int i=1;i<=100;i++)
+if(i%2==0)
+print(i)
+
+>>>>>>> Stashed changes
