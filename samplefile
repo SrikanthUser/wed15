@@ -1,0 +1,7 @@
+
+Addition of 2 numbers
+
+int a,b,c;
+int a,b=10,20;
+c=a+b;
+print(c);
